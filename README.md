@@ -1,2 +1,5 @@
-# docker_agent
-test AI agent: ROS2 + ollama
+# test_ai_agent
+test AI agent: 
+docker: ROS2 + ollama
+ROS2:
+ollama: gemma4, qwen3.6
